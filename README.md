@@ -1,0 +1,2 @@
+# FediLink
+Fully Musk-proof
